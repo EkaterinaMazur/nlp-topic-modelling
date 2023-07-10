@@ -1,6 +1,6 @@
 # tk_topics
 
-Data stoed in a folder ../data.
+Data stored in a folder ../data.
 
 Upload files here for tests: https://drive.google.com/drive/folders/1vJp6Zz9huwqdMIISPsX8KFSm-86xfKey?usp=drive_link
 
