@@ -1,0 +1,14 @@
+pandas
+spacy
+numpy
+networkx
+bertopic
+openai
+torch
+transformers
+requests
+matplotlib
+BERTopic
+spacy
+networkx
+PyPDF2
